@@ -1,0 +1,61 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Sales,Profit,Payment_Method
+ORD0019,2025-01-10,Diya Verma,Bookshelf,Furniture,East,1,7406,7406,1841.77,Debit Card
+ORD0049,2025-01-13,Rohan Singh,Office Chair,Furniture,East,3,6400,19200,2420.9,Cash
+ORD0055,2025-01-23,Vivaan Kapoor,Mobile,Electronics,North,7,30893,216251,60157.28,Net Banking
+ORD0014,2025-01-25,Diya Verma,Office Chair,Furniture,South,3,11848,35544,7514.94,Credit Card
+ORD0044,2025-01-27,Diya Verma,Office Chair,Furniture,West,5,11780,58900,12517.6,Debit Card
+ORD0034,2025-01-30,Sana Khan,Headphones,Electronics,Central,4,3230,12920,3515.61,UPI
+ORD0032,2025-01-31,Rohan Singh,Printer,Electronics,West,4,20166,80664,18695.59,UPI
+ORD0036,2025-02-04,Ananya Gupta,Bookshelf,Furniture,West,2,4022,8044,2452.82,UPI
+ORD0039,2025-02-07,Aarav Sharma,Headphones,Electronics,West,5,4545,22725,5691.27,Net Banking
+ORD0030,2025-02-08,Meera Nair,Headphones,Electronics,Central,5,4589,22945,6081.4,UPI
+ORD0046,2025-02-08,Rohan Singh,Bookshelf,Furniture,Central,7,7094,49658,15784.92,UPI
+ORD0020,2025-02-10,Diya Verma,Office Chair,Furniture,West,1,7446,7446,944.43,UPI
+ORD0050,2025-02-25,Vivaan Kapoor,Office Chair,Furniture,North,5,6108,30540,4482.59,Cash
+ORD0023,2025-03-03,Ananya Gupta,Notebook,Stationery,South,8,145,1160,239.11,UPI
+ORD0001,2025-03-13,Diya Verma,Mobile,Electronics,Central,1,21012,21012,5591.79,UPI
+ORD0004,2025-03-23,Vivaan Kapoor,Backpack,Accessories,East,5,726,3630,555.62,Debit Card
+ORD0018,2025-04-12,Rohan Singh,Mobile,Electronics,East,5,32937,164685,34306.22,Credit Card
+ORD0009,2025-04-18,Kabir Mehta,Printer,Electronics,North,6,8664,51984,12401.31,Net Banking
+ORD0002,2025-04-22,Ananya Gupta,Backpack,Accessories,Central,7,830,5810,1821.11,Net Banking
+ORD0051,2025-04-27,Ananya Gupta,Office Chair,Furniture,North,4,11041,44164,10735.17,Credit Card
+ORD0008,2025-04-30,Diya Verma,Laptop,Electronics,West,4,54482,217928,22501.34,Debit Card
+ORD0031,2025-05-02,Rohan Singh,Laptop,Electronics,West,1,48056,48056,5584.07,Cash
+ORD0053,2025-05-14,Rohan Singh,Bookshelf,Furniture,Central,6,2726,16356,4818.88,Debit Card
+ORD0017,2025-05-15,Arjun Das,Pen Pack,Stationery,South,3,166,498,159.0,Net Banking
+ORD0016,2025-05-17,Ishita Joshi,Laptop,Electronics,North,2,67338,134676,16881.17,Debit Card
+ORD0010,2025-05-19,Arjun Das,Headphones,Electronics,South,4,2138,8552,1866.93,Debit Card
+ORD0052,2025-05-23,Ishita Joshi,Pen Pack,Stationery,Central,6,121,726,94.27,Cash
+ORD0043,2025-05-25,Sana Khan,Mobile,Electronics,South,2,30128,60256,17221.25,Debit Card
+ORD0033,2025-05-27,Vivaan Kapoor,Pen Pack,Stationery,Central,5,250,1250,184.09,Cash
+ORD0042,2025-06-03,Diya Verma,Bookshelf,Furniture,South,1,7971,7971,1117.83,Debit Card
+ORD0059,2025-06-05,Kabir Mehta,Desk,Furniture,South,7,13977,97839,13362.9,Cash
+ORD0047,2025-06-07,Ishita Joshi,Notebook,Stationery,North,3,85,255,74.45,Debit Card
+ORD0054,2025-06-10,Vivaan Kapoor,Laptop,Electronics,Central,2,64548,129096,28968.62,Net Banking
+ORD0038,2025-06-10,Ananya Gupta,Backpack,Accessories,East,6,1768,10608,2917.87,Cash
+ORD0025,2025-06-19,Diya Verma,Laptop,Electronics,Central,4,47208,188832,22812.34,Credit Card
+ORD0007,2025-07-05,Sana Khan,Bookshelf,Furniture,South,5,7649,38245,7034.24,UPI
+ORD0058,2025-07-14,Rohan Singh,Bookshelf,Furniture,Central,3,4071,12213,2778.48,Net Banking
+ORD0005,2025-07-14,Diya Verma,Headphones,Electronics,East,4,3557,14228,4233.03,Debit Card
+ORD0012,2025-07-22,Meera Nair,Backpack,Accessories,South,6,1570,9420,1656.07,Debit Card
+ORD0011,2025-07-25,Kabir Mehta,Laptop,Electronics,North,4,46051,184204,26320.9,Credit Card
+ORD0057,2025-07-29,Ishita Joshi,Mobile,Electronics,West,5,28617,143085,36051.32,Debit Card
+ORD0013,2025-08-08,Sana Khan,Headphones,Electronics,West,4,2952,11808,1838.0,Debit Card
+ORD0041,2025-08-13,Arjun Das,Mobile,Electronics,East,4,24108,96432,24812.22,Net Banking
+ORD0015,2025-08-28,Arjun Das,Pen Pack,Stationery,East,2,148,296,69.87,Net Banking
+ORD0035,2025-09-15,Arjun Das,Notebook,Stationery,South,1,36,36,6.89,UPI
+ORD0040,2025-09-17,Kabir Mehta,Backpack,Accessories,South,2,1000,2000,403.44,Debit Card
+ORD0006,2025-10-02,Diya Verma,Backpack,Accessories,West,5,877,4385,699.23,UPI
+ORD0029,2025-10-02,Meera Nair,Notebook,Stationery,South,2,61,122,33.9,Cash
+ORD0003,2025-10-07,Vivaan Kapoor,Laptop,Electronics,South,4,68462,273848,48478.06,Cash
+ORD0021,2025-10-09,Rohan Singh,Bookshelf,Furniture,East,3,3551,10653,1862.73,Net Banking
+ORD0048,2025-10-14,Vivaan Kapoor,Office Chair,Furniture,Central,4,5184,20736,5022.07,Credit Card
+ORD0026,2025-10-20,Sana Khan,Desk,Furniture,West,8,8510,68080,13709.17,Credit Card
+ORD0024,2025-10-29,Ananya Gupta,Notebook,Stationery,North,1,105,105,20.8,UPI
+ORD0037,2025-11-14,Diya Verma,Backpack,Accessories,West,4,3071,12284,2324.2,Net Banking
+ORD0045,2025-11-23,Kabir Mehta,Laptop,Electronics,South,1,55929,55929,8409.14,Cash
+ORD0028,2025-12-01,Diya Verma,Pen Pack,Stationery,North,8,236,1888,581.66,Cash
+ORD0027,2025-12-04,Vivaan Kapoor,Printer,Electronics,East,7,9119,63833,19101.92,Cash
+ORD0056,2025-12-07,Ishita Joshi,Bookshelf,Furniture,Central,4,5483,21932,4937.21,Debit Card
+ORD0060,2025-12-12,Ananya Gupta,Backpack,Accessories,Central,6,2604,15624,3481.14,Cash
+ORD0022,2025-12-20,Ananya Gupta,Backpack,Accessories,East,7,1567,10969,1268.44,Cash
